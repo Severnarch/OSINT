@@ -1,0 +1,19 @@
+{
+	"inputKey": "{}",
+	"name": [
+		["Facebook", "https://www.facebook.com/{}"],
+		["YouTube", "https://www.youtube.com/@{}"],
+		["Twitter", "https://www.twitter.com/{}"],
+		["Blogger", "https://{}.blogspot.com"],
+		["Twitch", "https://twitch.tv/{}"],
+		["TikTok", "https://www.tiktok.com/@{}"],
+		["Shopify", "https://{}.myshopify.com/"],
+		["Reddit", "https://reddit.com/u/{}"],
+		["Wordpress", "https://{}.wordpress.com/"],
+		["GitHub", "https://www.github.com/{}"],
+		["Tumblr", "https://www.tumblr.com/{}"],
+		["Steam", "https://steamcommunity.com/id/{}"],
+		["Vimeo", "https://vimeo.com/{}"],
+		["SoundCloud", "https://soundcloud.com/{}"]
+	]
+}
